@@ -1,2 +1,2 @@
 # IOT
-Presentazione
+Presentazione da finire con codice e spiegazione dell'applicazione
